@@ -1,0 +1,22 @@
+# Build artifacts and executables
+P1/protein_chain
+P2/deliveriesCaracol
+*.o
+*.out
+*.exe
+*.so
+*.dylib
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Temporary and editor files
+*~
+*.swp
+.DS_Store
+.vscode/
+.idea/
